@@ -4,8 +4,8 @@ Com o avanço da tecnologia e a popularização de plataformas de prototipagem e
 A proposta visa demonstrar as capacidades do Arduino em conjunto com módulos auxiliares, como a ponte H e o módulo Bluetooth HC-05, aplicados em um sistema de locomoção simples, mas funcional. Através deste projeto, é possível explorar os fundamentos da eletrônica, programação embarcada e comunicação sem fio.
 
 Integrantes:
-José Vinicius Garcia
-Guilherme Aguzzoli
-xxxx
-xxxx
+José Vinicius Garcia;
+Guilherme Aguzzoli;
+Yan Sá Schaun;
+Gabriel Chagas;
 
